@@ -10,11 +10,7 @@ I coded between the years of 2004 and 2009 (Pascal, Delphi, PHP, SQL) and decide
 * 🧠  I'm learning everything Javascript related.
 
 ### Main Skills
-
-
-<p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
 
 ### Basic knowledge of
 [![My Skills](https://skillicons.dev/icons?i=py,dart,flutter)](https://skillicons.dev)
