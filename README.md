@@ -13,7 +13,7 @@ I coded between the years of 2005 and 2009 (Object Pascal, PHP, MySQL) and decid
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
 
 ### Basic knowledge of
-[![My Skills](https://skillicons.dev/icons?i=py,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,dart,flutter,cpp)](https://skillicons.dev)
 
 ### Socials
 
