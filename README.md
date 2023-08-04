@@ -7,7 +7,7 @@ Web Developer - Forever a student
 I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch to Law. 13 years later, I decided to switch careers and go back to programming.
 
 * 🌍  I'm based in Erechim, RS, Brazil.
-* 🧠  I'm learning everything Javascript related.
+* 🧠  I'm learning everything Javascript/Typescript related.
 
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
