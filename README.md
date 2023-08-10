@@ -10,7 +10,7 @@ I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch 
 * 🧠  I'm learning everything Javascript/Typescript related.
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,bootstrap,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
 
 ### Familiarity with
 [![My Skills](https://skillicons.dev/icons?i=py,flutter,cpp,docker,kubernetes)](https://skillicons.dev)
