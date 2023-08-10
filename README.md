@@ -15,6 +15,9 @@ I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch 
 ### Familiarity with
 [![My Skills](https://skillicons.dev/icons?i=py,flutter,cpp,docker,kubernetes)](https://skillicons.dev)
 
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=nestjs,redis,postgres,prisma)](https://skillicons.dev)
+
 ### Socials
 
 <a href="https://www.linkedin.com/in/joaotextor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/joaotextor90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
