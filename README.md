@@ -13,7 +13,7 @@ I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,bootstrap,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
 
 ### Familiarity with
-[![My Skills](https://skillicons.dev/icons?i=py,flutter,cpp,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flutter,cpp,docker,kubernetes,aws)](https://skillicons.dev)
 
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=nestjs,redis,postgres,prisma)](https://skillicons.dev)
