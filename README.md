@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer - Forever a student
 ---------------------------------
 
-I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch to Law. 13 years later, I decided to switch careers and go back to programming.
+I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch to Law. 13 years later, new life plans required me to go back to study software development.
 
 * 🌍  I'm based in Erechim, RS, Brazil.
-* 🧠  I'm learning everything Javascript/Typescript related.
+* 🧠  I'm learning everything Javascript/Typescript related, and occasionally C/C++ and Python. 
 
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,bootstrap,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
