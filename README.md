@@ -26,6 +26,6 @@ I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch 
 
 <a href="http://www.github.com/joaotextor"><img src="https://github-readme-stats.vercel.app/api?username=joaotextor&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaotextor's GitHub stats" /></a>
 
-[![wakatime](https://wakatime.com/badge/user/1c154501-0170-4a4e-af9e-9074c57115fb.svg)](https://wakatime.com/@1c154501-0170-4a4e-af9e-9074c57115fb)
+[![wakatime](https://wakatime.com/static/img/wakatime.svg)](https://wakatime.com/@1c154501-0170-4a4e-af9e-9074c57115fb)
 
 <a href="https://github.com/joaotextor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotextor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
