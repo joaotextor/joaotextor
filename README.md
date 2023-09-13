@@ -26,11 +26,4 @@ I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch 
 
 <a href="http://www.github.com/joaotextor"><img src="https://github-readme-stats.vercel.app/api?username=joaotextor&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaotextor's GitHub stats" /></a>
 
-### Wakatime stats
-
-<img
-  src="https://github.com/joaotextor/joaotextor/blob/main/images/stat.svg"
-  alt="João Textor's WakaTime Activity"
-/>
-
 <a href="https://github.com/joaotextor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotextor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
