@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer - Forever a student
 ---------------------------------
 
-I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch to Law. 13 years later, new life plans required me to go back to study software development.
+I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch to Law. 13 years later, new life plans in 2022 required me to go back to study software development.
+It's the end of 2023 and I'm absolute passionate about programming!!
 
 * 🌍  I'm based in Erechim, RS, Brazil.
 * 🧠  I'm learning everything Javascript/Typescript related, and occasionally C/C++ and Python. 
