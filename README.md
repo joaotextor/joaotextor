@@ -11,13 +11,10 @@ It's the end of 2023 and I'm absolute passionate about programming!!
 * 🧠  I'm learning everything Javascript/Typescript related, and occasionally C/C++ and Python. 
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,bootstrap,sass,materialui,nodejs,react,nextjs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,bootstrap,sass,materialui,nodejs,react,nextjs,express,mongodb,postgres,prisma)](https://skillicons.dev)
 
 ### Familiarity with
 [![My Skills](https://skillicons.dev/icons?i=py,flutter,cpp,docker,kubernetes,aws)](https://skillicons.dev)
-
-### Learning
-[![My Skills](https://skillicons.dev/icons?i=nestjs,redis,postgres,prisma)](https://skillicons.dev)
 
 ### Socials
 
