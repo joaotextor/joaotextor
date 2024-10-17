@@ -5,7 +5,7 @@ Web Developer Enthusiast - Forever a student
 ---------------------------------
 
 I coded between 2005 and 2009 (Object Pascal, PHP, MySQL) and decided to switch to Law. 13 years later, new life plans in 2022 required me to go back to study software development.
-I currently work at the Brazilian Federal Court of Justice as a Judicial Analyst, and web development is one of my favorite hobbies.
+I currently work at the Brazilian Federal Court of Justice as a Judicial Analyst, and web development is one of my favorite hobbies, which I also use to create some tools to help me in my daily work.
 
 * 🌍  I'm based in Ijui, RS, Brazil.
 * 🧠  I'm learning everything Javascript/Typescript related, and occasionally C/C++ and Python. 
